@@ -5,7 +5,7 @@ PUBLIC_MODE='yes'
 
 #═══════[ OWNER DETAILS ]═══════✧#
 OWNER_NAME="᚛Ibrahim adams᚜"
-OWNER_NUMBER="254799675533"
+OWNER_NUMBER=""
 
 #═══════[ BOT PROFILE ]═══════✧#
 BOT_NAME="BWM-XMD"
